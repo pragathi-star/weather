@@ -12,7 +12,7 @@
   
   .input{
     text-align: center;
-    margin: 80px auto;
+    margin: 100px auto;
   }
   
   input[type="submit"]{
@@ -40,7 +40,7 @@
   .card{
     width: 50%;
     background:#e7e7e76b;
-    height: 50vh;
+    height: 40vh;
     margin: 50px auto;
     border-radius: 1px;
   }
